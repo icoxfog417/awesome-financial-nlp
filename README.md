@@ -14,3 +14,4 @@ Text data is, in particular, is one of the largest and fastest growing forms of 
 ## Reference
 
 * [Machine learning in UK financial services](https://www.bankofengland.co.uk/-/media/boe/files/report/2019/machine-learning-in-uk-financial-services.pdf)
+* [For the First Time, Nasdaq Is Using Artificial Intelligence to Surveil U.S. Stock Market](https://www.nasdaq.com/articles/for-the-first-time-nasdaq-is-using-artificial-intelligence-to-surveil-u.s.-stock-market)
