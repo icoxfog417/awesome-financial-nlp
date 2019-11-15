@@ -10,3 +10,7 @@ Text data is, in particular, is one of the largest and fastest growing forms of 
 
 - <b>Perspectives on the future</b> - There are still many open problems in the space of NLP applied to finance. Aspect-based sentiment analysis, coreference resolution, evaluating how novel or "surprising" a news article is, and many others. There is no shortage of interesting research problems in the space of NLP applications in finance. What's need is more creative minds and enthusiastic data scientists to help drive the field into the future!
 [sources](https://www.thisismetis.com/blog/financial-applications-of-natural-language-processing)
+
+## Reference
+
+* [Machine learning in UK financial services](https://www.bankofengland.co.uk/-/media/boe/files/report/2019/machine-learning-in-uk-financial-services.pdf)
