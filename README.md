@@ -64,13 +64,6 @@ Apply **Question Answering**, **Dialog** to communicate with customer.
 
 * Sebastian G.M. Händschke, Sven Buechel, Jan Goldenstein, Philipp Poschmann, Tinghui Duan, Peter Walgenbach and Udo Hahn. [A Corpus of Corporate Annual and Social Responsibility Reports: 280 Million Tokens of Balanced Organizational Writing](https://www.aclweb.org/anthology/W18-3103/). In ACL Workshop on Economics and Natural Language Processing, 2018.
 
-- <b>Sentiment analysis</b> - Sentiment analysis is perhaps the most common methods for gaining investment insight from text. The intuition is pretty apparent here - if we want to gain insight about the expected future return of a stock, it makes sense to know how people feel about that company!
-
-- <b>Risk Modeling</b> - Apart from using sentiment-like approaches to aid in forecasting returns, one can also incorporate text information from corporate filings to provide an alternative perspective on risk modeling. Publicly traded companies in the United States are required by the SEC to annually submit a form (10-K) which details information about the financial performance of the company. 
-
-- <b>Perspectives on the future</b> - There are still many open problems in the space of NLP applied to finance. Aspect-based sentiment analysis, coreference resolution, evaluating how novel or "surprising" a news article is, and many others. There is no shortage of interesting research problems in the space of NLP applications in finance. What's need is more creative minds and enthusiastic data scientists to help drive the field into the future!
-[sources](https://www.thisismetis.com/blog/financial-applications-of-natural-language-processing)
-
 ## Reference
 
 * [Machine learning in UK financial services](https://www.bankofengland.co.uk/-/media/boe/files/report/2019/machine-learning-in-uk-financial-services.pdf)
