@@ -96,7 +96,7 @@ Application
 
 * Corpus
   * Sebastian G.M. Händschke, Sven Buechel, Jan Goldenstein, Philipp Poschmann, Tinghui Duan, Peter Walgenbach and Udo Hahn. [A Corpus of Corporate Annual and Social Responsibility Reports: 280 Million Tokens of Balanced Organizational Writing](https://www.aclweb.org/anthology/W18-3103/). In ACL-ECONLP, 2018.
- * Tobias Daudert and Sina Ahmadi. [CoFiF: A Corpus of Financial Reports in French Language](https://www.aclweb.org/anthology/W19-5504/). In In EMNLP-ECONLP, 2019.
+  * Tobias Daudert and Sina Ahmadi. [CoFiF: A Corpus of Financial Reports in French Language](https://www.aclweb.org/anthology/W19-5504/). In In EMNLP-ECONLP, 2019.
 
 ## Reference
 
