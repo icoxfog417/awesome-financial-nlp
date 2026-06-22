@@ -54,6 +54,8 @@ Application
 * Customer Engagement
   * Tuan Lai, Trung Bui, Sheng Li and Nedim Lipka. [A Simple End-to-End Question Answering Model for Product Information](https://www.aclweb.org/anthology/W18-3105/). In ACL-ECONLP, 2018.
   * Jared Rivera, Jan Caleb Oliver Pensica, Jolene Valenzuela, Alfonso Secuya and Charibeth Cheng. [Annotation Process for the Dialog Act Classification of a Taglish E-commerce Q&A Corpus](https://www.aclweb.org/anthology/D19-5108/).  In EMNLP-ECONLP, 2019.
+* Benchmark (Multimodal Document QA)
+  * Lei Zhang, Xin Zhou, Chaoyue He, Di Wang, Yi Wu, Hong Xu, Wei Liu and Chunyan Miao. [MMESGBench: Pioneering Multimodal Understanding and Complex Reasoning Benchmark for ESG Tasks](https://arxiv.org/abs/2507.18932). In ACM Multimedia, 2025. ([code](https://github.com/Zhanglei1103/MMESGBench))
 
 ### Knowledge Extraction
 
