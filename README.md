@@ -97,6 +97,7 @@ Application
 * Corpus
   * Sebastian G.M. Händschke, Sven Buechel, Jan Goldenstein, Philipp Poschmann, Tinghui Duan, Peter Walgenbach and Udo Hahn. [A Corpus of Corporate Annual and Social Responsibility Reports: 280 Million Tokens of Balanced Organizational Writing](https://www.aclweb.org/anthology/W18-3103/). In ACL-ECONLP, 2018.
   * Tobias Daudert and Sina Ahmadi. [CoFiF: A Corpus of Financial Reports in French Language](https://www.aclweb.org/anthology/W19-5504/). In In EMNLP-ECONLP, 2019.
+* [LevelBench-100](https://github.com/levelcfo/levelbench-100): Multi-system agentic accounting and financial close evaluation benchmark testing LLMs across 100 workflows and 10 multi-file company closes ([Leaderboard & Report](https://levelcfo.com/benchmarks/agentic-accounting/)).
 
 ## Reference
 
